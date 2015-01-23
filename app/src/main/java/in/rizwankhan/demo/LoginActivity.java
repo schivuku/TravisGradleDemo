@@ -1,4 +1,4 @@
-package rizwankhan.in.demo;
+package in.rizwankhan.demo;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
